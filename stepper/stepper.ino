@@ -8,11 +8,6 @@
  The motor should revolve one revolution in one direction, then
  one revolution in the other direction.
 
-
- Created 11 Mar. 2007
- Modified 30 Nov. 2009
- by Tom Igoe
-
  */
 
 #include <Stepper.h>
